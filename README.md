@@ -1,3 +1,7 @@
+# Источник
+https://reactcommunity.org/react-transition-group/transition
+
+
 ### Установка
 `
 npm install react-transition-group
