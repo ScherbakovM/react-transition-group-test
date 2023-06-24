@@ -1,4 +1,7 @@
-# Источник
+## Создание анимации при вставке и удалении компонентов в разметку React
+
+
+### Источник
 https://reactcommunity.org/react-transition-group/transition
 
 
