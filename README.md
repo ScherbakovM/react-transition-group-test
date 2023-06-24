@@ -34,7 +34,7 @@ export default Main;
 
 ```
 
-### CSS стили
+### CSS стили для блока с классом alert
 
 ```
 .alert-enter {
